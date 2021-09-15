@@ -2,7 +2,7 @@
 
 This project, uses computer vision to locate your face and then locates whether you smiled or not, when you smile, it takes a picture, it then takes 3 such pictures. In 
 the end, it allows you to choose from these 3 images, based on the one you choose, it discards the other two.
-NOTE : *THERE HAS TO BE GOOD LIGHTING IN YOUR AREA*
+NOTE : **THERE HAS TO BE GOOD LIGHTING IN YOUR AREA**
 
 ## How to setup the project
 
